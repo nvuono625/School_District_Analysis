@@ -1,5 +1,5 @@
 # School_District_Analysis
-##Overview
+## Overview
 The purpose of this project is to analyze the math and reading grades of Thomas High School students because of potential academic dishonesty. Within the student grades dataset, it appears the academic dishonesty is in the ninth grade. To identify altered grades, NaNs, or not a number, will be applied to math and reading scores for Thomas High School ninth grade. The goal is to see how much the overall analysis will change. If drastic changes occur academic dishonesty is highly likely. 
 
 
